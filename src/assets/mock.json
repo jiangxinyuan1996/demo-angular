@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"firstCard",
+        "cardNum":"6215666688884444",
+        "maxAmount":"144000"
+    },
+    {
+        "id":2,
+        "name":"secondCard",
+        "cardNum":"6215666688884444",
+        "maxAmount":"144000"
+    },
+    {
+        "id":3,
+        "name":"thirdCard",
+        "cardNum":"6215666688884444",
+        "maxAmount":"144000"
+    }
+]
